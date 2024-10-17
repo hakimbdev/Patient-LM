@@ -1,0 +1,20 @@
+{
+    "appName": "Patient LM",
+    "welcomeMessage": "Welcome to Patient LM",
+    "homeDescription": "Get personalized health prescriptions and find nearby medical facilities.",
+    "getPrescription": "Get Prescription",
+    "findNearbyLocations": "Find Nearby Locations",
+    "enterSymptoms": "Enter your symptoms",
+    "generatePrescription": "Generate Prescription",
+    "generating": "Generating...",
+    "yourPrescription": "Your Prescription",
+    "prescriptionError": "An error occurred while generating the prescription. Please try again.",
+    "nearbyLocations": "Nearby Medical Facilities",
+    "findNearby": "Find Nearby",
+    "loading": "Loading...",
+    "locationError": "Unable to get your location. Please enable location services.",
+    "geolocationNotSupported": "Geolocation is not supported by your browser.",
+    "nearbyPlaces": "Nearby Places",
+    "allRightsReserved": "All rights reserved.",
+    "home": "Home"
+  }

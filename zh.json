@@ -1,0 +1,20 @@
+{
+    "appName": "Patient LM",
+    "welcomeMessage": "欢迎使用 Patient LM",
+    "homeDescription": "获取个性化健康处方并查找附近的医疗设施。",
+    "getPrescription": "获取处方",
+    "findNearbyLocations": "查找附近位置",
+    "enterSymptoms": "输入您的症状",
+    "generatePrescription": "生成处方",
+    "generating": "正在生成...",
+    "yourPrescription": "您的处方",
+    "prescriptionError": "生成处方时出错。请重试。",
+    "nearbyLocations": "附近的医疗设施",
+    "findNearby": "查找附近",
+    "loading": "加载中...",
+    "locationError": "无法获取您的位置。请启用位置服务。",
+    "geolocationNotSupported": "您的浏览器不支持地理定位。",
+    "nearbyPlaces": "附近的地点",
+    "allRightsReserved": "版权所有。",
+    "home": "首页"
+  }

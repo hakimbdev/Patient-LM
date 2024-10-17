@@ -1,0 +1,20 @@
+{
+    "appName": "Patient LM",
+    "welcomeMessage": "Bienvenido a Patient LM",
+    "homeDescription": "Obtenga recetas de salud personalizadas y encuentre instalaciones médicas cercanas.",
+    "getPrescription": "Obtener Receta",
+    "findNearbyLocations": "Encontrar Ubicaciones Cercanas",
+    "enterSymptoms": "Ingrese sus síntomas",
+    "generatePrescription": "Generar Receta",
+    "generating": "Generando...",
+    "yourPrescription": "Su Receta",
+    "prescriptionError": "Ocurrió un error al generar la receta. Por favor, inténtelo de nuevo.",
+    "nearbyLocations": "Instalaciones Médicas Cercanas",
+    "findNearby": "Buscar Cerca",
+    "loading": "Cargando...",
+    "locationError": "No se puede obtener su ubicación. Por favor, active los servicios de ubicación.",
+    "geolocationNotSupported": "La geolocalización no es compatible con su navegador.",
+    "nearbyPlaces": "Lugares Cercanos",
+    "allRightsReserved": "Todos los derechos reservados.",
+    "home": "Inicio"
+  }
